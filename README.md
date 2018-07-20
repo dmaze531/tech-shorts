@@ -88,7 +88,6 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [Import Sets](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/import-sets/reference/import-sets-landing-page.html)
 
-
 ## Episode 20
 
 * [Automated Test Framework](https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-overview.html)
@@ -98,3 +97,35 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [Application Sharing](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SharingApplications.html)
 * [Create Application Files to Include Sample Data](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_IncludeApplicationData.html)
 * [Publish an Application to the Application Repository](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_PublishAppsToTheAppRepository.html)
+
+## Episode 22
+
+* [Access Control List Rules](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/contextual-security/concept/access-control-rules.html)
+
+## Episode 23
+
+* [Service Level Agreements](https://docs.servicenow.com/bundle/kingston-customer-service-management/page/product/customer-service-management/concept/c_ServiceLevelAgreements.html)
+* [Use SLA Retroactive Start and Pause](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-level-management/task/t_UseSLARetroactiveStartAndPause.html)
+
+## Episode 24
+
+* [Service Level Agreements](https://docs.servicenow.com/bundle/kingston-customer-service-management/page/product/customer-service-management/concept/c_ServiceLevelAgreements.html)
+* [Use SLA Retroactive Start and Pause](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-level-management/task/t_UseSLARetroactiveStartAndPause.html)
+
+## Episode 25
+
+* [Process Flow Formatter](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/form-administration/reference/r_ProcessFlowFormatter.html)
+
+## Episode 26
+
+* [UI Actions](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/list-administration/concept/c_UIActions.html)
+* [Script API Reference](https://developer.servicenow.com)
+* [Script](scripts/Ep26-UI-Action-Send-to-IT.js)
+
+## Episode 27
+
+* [Script Debugger](https://developer.servicenow.com/app.do#!/catlist/technical_best_practices?v=kingston)
+
+## Episode 28
+
+* [Localization](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/localization/reference/r_InternationalizationSupport.html)
